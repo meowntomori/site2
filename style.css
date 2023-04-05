@@ -1,0 +1,44 @@
+img {
+    height: auto;
+    width: 100%;
+    border-radius: 3%;
+    border-color: black;
+}
+
+.center {
+    text-align: center;
+}
+
+.font{
+    font-family:Roboto;
+}
+.font_1 {
+    font-family: 'Times New Roman';
+}
+hr{
+    border: 1px solid grey;
+}
+body{
+    background-color: #f8f8f8;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: 400;
+    background-color: #585858;
+    width: 100%;
+}
+h2{
+    color: #484343;
+    font-size: 24px;
+    font-style: italic;
+    line-height: 16px;
+    text-align: left;
+}
+p{
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
